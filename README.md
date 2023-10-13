@@ -1,4 +1,3 @@
-[![MasterHead](https://64.media.tumblr.com/b2f778c434296134e0f50b4421612c59/7c97c013750b6729-e7/s540x810/9067eef912fb99e8098c7474b630a0c81c5b3979.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ain</h1>
 <h3 align="center">A passionate web/mobile developer from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">

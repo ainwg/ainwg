@@ -6,10 +6,10 @@
 </div>
 
 ## About Me
-- 🌱 I’m currently studying at Universiti Malaysia Pahang in Bachelor of Computer Science (Software Engineering)
-- 🔭 Have deep passion for learning and enjoy exploring a wide range of subjects
-- 📫 How to reach me **nurainwg@gmail.com**
-- ⚡ Fun fact **Can't code without coffee**
+- 🌱 I'm currently studying at Universiti Malaysia Pahang, pursuing a Bachelor of Computer Science (Software Engineering)
+- 🔭 I have a deep passion for learning and enjoy exploring a wide range of subjects
+- 📫 You can reach me at nurainwg@gmail.com
+- ⚡ Fun fact: I can't code without coffee
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

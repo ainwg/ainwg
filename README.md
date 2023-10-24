@@ -7,9 +7,9 @@
 
 ### About Me
 - 🌱 I'm currently studying at Universiti Malaysia Pahang, pursuing a Bachelor of Computer Science (Software Engineering)
-- 🔭 I have a deep passion for learning and enjoy exploring a wide range of subjects
+- 🔭 I hold a strong passion for mobile application development while maintaining a genuine interest in exploring various other tech domains such as web development, data analytics, data engineering, and cloud solutions
+- ⚡ Fun fact: I can't code without starting my day with coffee
 - 📫 You can reach me at nurainwg@gmail.com
-- ⚡ Fun fact: I can't code without coffee
 
 ### Connect with me
 <div id="badges">

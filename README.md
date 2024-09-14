@@ -6,9 +6,10 @@
 </div>
 
 ### About Me
-- 🌱 I'm a recent Bachelor's Degree Comp Sc graduate majoring in Software Engineering from Universiti Malaysia Pahang
-- 🔭 I hold a strong passion for mobile application development while maintaining a genuine interest in exploring various other tech domains such as web development, data management, and cloud solutions
-- 📫 You can reach me at nurainwg@gmail.com
+- 🎓 Bachelor's Degree in Computer Science with a major in Software Engineering
+- 💡 Passionate Mobile App Developer with experience in building native Android apps and exploring other tech areas like web development, data management, and cloud solutions
+- 💼 Currently working as a Software Engineer specializing in SAP while also freelancing as a mobile app developer
+- 📫 Feel free to reach out: nurainwg@gmail.com
 
 ### Connect with me
 <div id="badges">

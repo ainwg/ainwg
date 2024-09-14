@@ -8,7 +8,6 @@
 ### About Me
 - 🌱 I'm a recent Bachelor's Degree Comp Sc graduate majoring in Software Engineering from Universiti Malaysia Pahang
 - 🔭 I hold a strong passion for mobile application development while maintaining a genuine interest in exploring various other tech domains such as web development, data management, and cloud solutions
-- ⚡ Fun fact: Can't code without starting my day with coffee
 - 📫 You can reach me at nurainwg@gmail.com
 
 ### Connect with me

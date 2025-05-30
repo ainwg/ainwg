@@ -6,8 +6,8 @@
 </div>
 
 ### About Me
-🎓 Bachelor's Degree in Computer Science (Software Engineering)
-💼 Currently working as a Software Engineer
+🎓 Bachelor's Degree in Computer Science (Software Engineering)<br>
+💼 Currently working as a Software Engineer<br>
 📫 Feel free to reach out: nurainwg@gmail.com
 
 ### Connect with me

@@ -6,10 +6,9 @@
 </div>
 
 ### About Me
-- 🎓 Bachelor's Degree in Computer Science with a major in Software Engineering
-- 💡 Passionate Mobile App Developer with experience in building native Android apps and exploring other tech areas like web development, data management, and cloud solutions
-- 💼 Currently working as a Software Engineer specializing in SAP while also freelancing as a mobile app developer
-- 📫 Feel free to reach out: nurainwg@gmail.com
+🎓 Bachelor's Degree in Computer Science (Software Engineering)
+💼 Currently working as a Software Engineer
+📫 Feel free to reach out: nurainwg@gmail.com
 
 ### Connect with me
 <div id="badges">

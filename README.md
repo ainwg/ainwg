@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ain</h1>
-<h3 align="center">A passionate web/mobile developer from Malaysia</h3>
-
-<div align="center">
-  <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"/>
-</div>
 
 ### About Me
 🎓 Bachelor's Degree in Computer Science (Software Engineering)<br>
